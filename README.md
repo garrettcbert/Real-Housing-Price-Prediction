@@ -1,12 +1,8 @@
----
-title: "Real Housing Price Prediction"
-output: 
-  html_document: 
-    theme: lumen
-    highlight: tango
-author: "By: Garrett Seibert"
-date: 12/28/24
----
+# Real Housing Price Prediction
+
+By: Garrett Seibert
+
+12/28/24
 
 ## **Introduction**
 

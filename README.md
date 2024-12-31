@@ -61,7 +61,7 @@ Inflation rate data was also gathered from the **US Bureau of Labor Statistics**
 [^3]: “BLS Data Viewer.” Bls.gov, 2018, data.bls.gov/dataViewer/view/timeseries/CUUR0000SA0.
 
 <p align="center">
-  <img src="images/Inflation_trends.png" width="650" height="450"/>
+  <img src="images/Inflation_trends.png" style="max-width: 50%; height: auto; display: block;"/>
 </p>
 
 ### **Finding Similar Demand:**
@@ -77,7 +77,7 @@ The data for the interest rates was collected from the website of the **Federal 
 [^4]: “Effective Federal Funds Rate.” *Stlouisfed.org*, 1 Nov. 2024, fred.stlouisfed.org/series/FEDFUNDS.
 
 <p align="center">
-  <img src="images/interest_rate.png" width="650" height="450"/>
+  <img src="images/interest_rate.png" style="max-width: 50%; height: auto; display: block;"/>
 </p>
 
 ## **Calculating the Sample Rate**
@@ -85,7 +85,7 @@ The data for the interest rates was collected from the website of the **Federal 
 Using our sample time period, we can extract a rate of change that we can then apply to the current state of **Real HPI**. The equation for predicted rate of change given any relationship goes as follows:
 
 <p align="center">
-  <img src="images/b_hat.png" width="1700" height="218"/>
+  <img src="images/b_hat.png" style="max-width: 50%; height: auto; display: block;"/>
 </p>
 
 Because we need the x values to be linear and numeric, we will substitute the Year-Month for months in numeric form, with a growing rate of 1 per month.
@@ -95,13 +95,13 @@ Because we need the x values to be linear and numeric, we will substitute the Ye
 The full calculation for understanding the relationship between Month-Numeric and Real Housing Price Index over the this 2 year duration goes as follows:
 
 <p align="center">
-  <img src="images/correlation.png" width="1700" height="300"/>
+  <img src="images/correlation.png" style="max-width: 50%; height: auto; display: block;"/>
 </p>
 
 When calculated:
 
 <p align="center">
-  <img src="images/r_equals.png" width="258" height="79"/>
+  <img src="images/r_equals.png" style="max-width: 50%; height: auto; display: block;"/>
 </p>
 
 This means there is a strong negative correlation. In other words, during the years 2010 and 2011 real housing prices fell relatively consistently each month.
@@ -109,13 +109,13 @@ This means there is a strong negative correlation. In other words, during the ye
 After finding the standard deviation for both sets of values:
 
 <p align="center">
-  <img src="images/sd.png" width="204" height="102"/>
+  <img src="images/sd.png" style="max-width: 50%; height: auto; display: block;"/>
 </p>
 
 Plugging everything in:
 
 <p align="center">
-  <img src="images/b_hat_equals.png" width="550" height="100"/>
+  <img src="images/b_hat_equals.png" style="max-width: 50%; height: auto; display: block;"/>
 </p>
 
 This means that for every month, our predicted change in real housing price index per month is -0.4565.
@@ -123,7 +123,7 @@ This means that for every month, our predicted change in real housing price inde
 The graph below models how this sample rate is seen through the months in between 2010 and 2011.
 
 <p align="center">
-  <img src="images/sample_rate.png" width="650" height="450"/>
+  <img src="images/sample_rate.png" style="max-width: 50%; height: auto; display: block;"/>
 </p>
 
 ## **How do we apply this?**
@@ -131,7 +131,7 @@ The graph below models how this sample rate is seen through the months in betwee
 We can use this predicted rate from our matching time period and apply it to the most recent **Real HPI** values to find the predicted real housing price in April of 2025, though this can method can be used with any future month that meets our assumptions.
 
 <p align="center">
-  <img src="images/application.png" width="950" height="150"/>
+  <img src="images/application.png" style="max-width: 50%; height: auto; display: block;"/>
 </p>
 
 The graph below applies the sample rate of change gathered from the months between 2010 and 2011 to the most recent gathered **Real HPI** number. We can see that in 8 months, using the sample rate, the **Real HPI** would be 132.

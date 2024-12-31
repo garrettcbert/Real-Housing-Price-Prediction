@@ -30,4 +30,6 @@ The **Housing Price Index** (HPI) is the number that the US government attribute
 
 [^2]: \<“BLS Data Viewer.” Bls.gov, 2018, data.bls.gov/dataViewer/view/timeseries/CUUR0000SA0.\>
 
-<img src=images/HPI_data.png width="600" height="450" style="text-align: center">
+<p align="center">
+  <img src=images/HPI_data.png width="600" height="450"/>
+</p>

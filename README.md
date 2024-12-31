@@ -74,7 +74,7 @@ The graph below shows the change in interest rates from the past 24 years. As yo
 
 The data for the interest rates was collected from the website of the **Federal Reserve Bank of St. Louis**[^4].
 
-[^4]: FRED. “Effective Federal Funds Rate.” *Stlouisfed.org*, 1 Nov. 2024, fred.stlouisfed.org/series/FEDFUNDS.
+[^4]: “Effective Federal Funds Rate.” *Stlouisfed.org*, 1 Nov. 2024, fred.stlouisfed.org/series/FEDFUNDS.
 
 <p align="center">
   <img src=images/interest_rate.png width="650" height="450"/>

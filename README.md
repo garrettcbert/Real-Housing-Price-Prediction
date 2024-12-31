@@ -26,9 +26,9 @@ Because of how unpredictable our economy can be at times, the natural limitation
 
 The **Housing Price Index** (HPI) is the number that the US government attributes to the overall price level of houses on the market. This number is constantly rising due to the fact that the inflation rate is always positive. However, especially to new home buyers doing research on affordability, this number can be misleading. Yes, prices are always going up, but given a stable and consistent economy targeting around 2% inflation and moderate interest rates, wages are also always going up. When we adjust the HPI numbers for inflation, however, we can find the **Real HPI** which is a better representation of the state of the housing market. I pulled the HPI numbers from the past 24 years from the **Federal Housing Finance Agency**[^1]. I gathered the Consumer Price Index (CPI) numbers from the **US Bureau of Labor Statistics**[^2]. The CPI is the way that the US government measures changes in overall prices (inflation). We can find the **Real HPI** adjusted for inflation using the following formula for each month of recorded HPI:
 
-[^1]: \<“FHFA House Price Index.” Www.fhfa.gov, www.fhfa.gov/data/hpi.\>
+[^1]: "FHFA House Price Index.” Www.fhfa.gov, www.fhfa.gov/data/hpi.
 
-[^2]: \<“BLS Data Viewer.” Bls.gov, 2018, data.bls.gov/dataViewer/view/timeseries/CUUR0000SA0.\>
+[^2]: “BLS Data Viewer.” Bls.gov, 2018, data.bls.gov/dataViewer/view/timeseries/CUUR0000SA0.
 
 $$
 \frac{\text{Nominal HPI}}{\text{CPI}} * 100 = \text{Real HPI}
@@ -58,7 +58,7 @@ The graph below shows the change in inflation rate over the past 24 years. There
 
 Inflation rate data was also gathered from the **US Bureau of Labor Statistics**[^3].
 
-[^3]: \<“BLS Data Viewer.” Bls.gov, 2018, data.bls.gov/dataViewer/view/timeseries/CUUR0000SA0.\>
+[^3]: “BLS Data Viewer.” Bls.gov, 2018, data.bls.gov/dataViewer/view/timeseries/CUUR0000SA0.
 
 <p align="center">
   <img src=images/Inflation_trends.png width="650" height="450"/>

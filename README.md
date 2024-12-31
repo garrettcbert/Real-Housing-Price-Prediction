@@ -85,7 +85,7 @@ The data for the interest rates was collected from the website of the **Federal 
 Using our sample time period, we can extract a rate of change that we can then apply to the current state of **Real HPI**. The equation for predicted rate of change given any relationship goes as follows:
 
 <p align="center">
-  <img src="images/b_hat.png" width="1846" height="364"/>
+  <img src="images/b_hat.png" width="1800" height="318"/>
 </p>
 
 Because we need the x values to be linear and numeric, we will substitute the Year-Month for months in numeric form, with a growing rate of 1 per month.

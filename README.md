@@ -30,6 +30,12 @@ The **Housing Price Index** (HPI) is the number that the US government attribute
 
 [^2]: \<“BLS Data Viewer.” Bls.gov, 2018, data.bls.gov/dataViewer/view/timeseries/CUUR0000SA0.\>
 
+$$
+\frac{\text{Nominal HPI}}{\text{CPI}} * 100 = \text{Real HPI}
+$$
+
+The graph below represents the change in the real housing price index over the last 24 years. As you can see, events like the 2008 housing market crash and the 2020 pandemic had substantial impacts on housing prices.
+
 <p align="center">
   <img src=images/HPI_data.png width="650" height="450"/>
 </p>

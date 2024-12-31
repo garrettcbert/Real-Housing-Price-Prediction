@@ -37,7 +37,7 @@ $$
 The graph below represents the change in the real housing price index over the last 24 years. As you can see, events like the 2008 housing market crash and the 2020 pandemic had substantial impacts on housing prices.
 
 <p align="center">
-  <img src=https://github.com/garrettcbert/Real-Housing-Price_Prediction/images/HPI_data.png width="650" height="450"/>
+  <img src=https://github.com/garrettcbert/Real-Housing-Price-Prediction/images/HPI_data.png width="650" height="450"/>
 </p>
 
 ## **Forming a Prediction**

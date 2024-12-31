@@ -31,7 +31,7 @@ The **Housing Price Index** (HPI) is the number that the US government attribute
 [^2]: “BLS Data Viewer.” Bls.gov, 2018, data.bls.gov/dataViewer/view/timeseries/CUUR0000SA0.
 
 <p align="center">
-  <img src="images/nom_cpi.png" width="300" height="120"/>
+  <img src="images/nom_cpi.png" width="250" height="70"/>
 </p>
 
 The graph below represents the change in the real housing price index over the last 24 years. As you can see, events like the 2008 housing market crash and the 2020 pandemic had substantial impacts on housing prices.
@@ -85,7 +85,7 @@ The data for the interest rates was collected from the website of the **Federal 
 Using our sample time period, we can extract a rate of change that we can then apply to the current state of **Real HPI**. The equation for predicted rate of change given any relationship goes as follows:
 
 <p align="center">
-  <img src="images/b_hat.png" width="300" height="200"/>
+  <img src="images/b_hat.png" width="500" height="200"/>
 </p>
 
 Because we need the x values to be linear and numeric, we will substitute the Year-Month for months in numeric form, with a growing rate of 1 per month.

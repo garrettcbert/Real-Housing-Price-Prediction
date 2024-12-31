@@ -34,10 +34,16 @@ $$
 \frac{\text{Nominal HPI}}{\text{CPI}} * 100 = \text{Real HPI}
 $$
 
+<div class="MathJax_SVG_Display" style="text-align: center;"><span class="MathJax_SVG" id="MathJax-Element-1-Frame" tabindex="-1" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot; display=&quot;block&quot;><mfrac><mtext>Nominal HPI</mtext><mtext>CPI</mtext></mfrac><mo>&amp;#x2217;</mo><mn>100</mn><mo>=</mo><mtext>Real HPI</mtext></math>" role="presentation" style="font-size: 100%; display: inline-block; position: relative;"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="32.251ex" height="5.303ex" viewBox="0 -1458.3 13886 2283.4" role="img" focusable="false" style="vertical-align: -1.916ex;" aria-hidden="true"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><g transform="translate(120,0)"><rect stroke="none" width="5862" height="60" x="0" y="220"></rect><g transform="translate(60,676)"><use xlink:href="#MJMAIN-4E"></use><use xlink:href="#MJMAIN-6F" x="750" y="0"></use><use xlink:href="#MJMAIN-6D" x="1251" y="0"></use><use xlink:href="#MJMAIN-69" x="2084" y="0"></use><use xlink:href="#MJMAIN-6E" x="2363" y="0"></use><use xlink:href="#MJMAIN-61" x="2919" y="0"></use><use xlink:href="#MJMAIN-6C" x="3420" y="0"></use><use xlink:href="#MJMAIN-48" x="3948" y="0"></use><use xlink:href="#MJMAIN-50" x="4699" y="0"></use><use xlink:href="#MJMAIN-49" x="5380" y="0"></use></g><g transform="translate(2048,-705)"><use xlink:href="#MJMAIN-43"></use><use xlink:href="#MJMAIN-50" x="722" y="0"></use><use xlink:href="#MJMAIN-49" x="1404" y="0"></use></g></g><use xlink:href="#MJMAIN-2217" x="6324" y="0"></use><g transform="translate(7046,0)"><use xlink:href="#MJMAIN-31"></use><use xlink:href="#MJMAIN-30" x="500" y="0"></use><use xlink:href="#MJMAIN-30" x="1001" y="0"></use></g><use xlink:href="#MJMAIN-3D" x="8826" y="0"></use><g transform="translate(9882,0)"><use xlink:href="#MJMAIN-52"></use><use xlink:href="#MJMAIN-65" x="736" y="0"></use><use xlink:href="#MJMAIN-61" x="1181" y="0"></use><use xlink:href="#MJMAIN-6C" x="1681" y="0"></use><use xlink:href="#MJMAIN-48" x="2210" y="0"></use><use xlink:href="#MJMAIN-50" x="2960" y="0"></use><use xlink:href="#MJMAIN-49" x="3642" y="0"></use></g></g></svg><span class="MJX_Assistive_MathML MJX_Assistive_MathML_Block" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mfrac><mtext>Nominal HPI</mtext><mtext>CPI</mtext></mfrac><mo>∗</mo><mn>100</mn><mo>=</mo><mtext>Real HPI</mtext></math></span></span></div>
+
+<p><span class="math display"><span class="MathJax_Preview" style="color: inherit;"></span><div class="MathJax_SVG_Display" style="text-align: center;"><span class="MathJax_SVG" id="MathJax-Element-1-Frame" tabindex="-1" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot; display=&quot;block&quot;><mfrac><mtext>Nominal HPI</mtext><mtext>CPI</mtext></mfrac><mo>&amp;#x2217;</mo><mn>100</mn><mo>=</mo><mtext>Real HPI</mtext></math>" role="presentation" style="font-size: 100%; display: inline-block; position: relative;"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="32.251ex" height="5.303ex" viewBox="0 -1458.3 13886 2283.4" role="img" focusable="false" style="vertical-align: -1.916ex;" aria-hidden="true"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><g transform="translate(120,0)"><rect stroke="none" width="5862" height="60" x="0" y="220"></rect><g transform="translate(60,676)"><use xlink:href="#MJMAIN-4E"></use><use xlink:href="#MJMAIN-6F" x="750" y="0"></use><use xlink:href="#MJMAIN-6D" x="1251" y="0"></use><use xlink:href="#MJMAIN-69" x="2084" y="0"></use><use xlink:href="#MJMAIN-6E" x="2363" y="0"></use><use xlink:href="#MJMAIN-61" x="2919" y="0"></use><use xlink:href="#MJMAIN-6C" x="3420" y="0"></use><use xlink:href="#MJMAIN-48" x="3948" y="0"></use><use xlink:href="#MJMAIN-50" x="4699" y="0"></use><use xlink:href="#MJMAIN-49" x="5380" y="0"></use></g><g transform="translate(2048,-705)"><use xlink:href="#MJMAIN-43"></use><use xlink:href="#MJMAIN-50" x="722" y="0"></use><use xlink:href="#MJMAIN-49" x="1404" y="0"></use></g></g><use xlink:href="#MJMAIN-2217" x="6324" y="0"></use><g transform="translate(7046,0)"><use xlink:href="#MJMAIN-31"></use><use xlink:href="#MJMAIN-30" x="500" y="0"></use><use xlink:href="#MJMAIN-30" x="1001" y="0"></use></g><use xlink:href="#MJMAIN-3D" x="8826" y="0"></use><g transform="translate(9882,0)"><use xlink:href="#MJMAIN-52"></use><use xlink:href="#MJMAIN-65" x="736" y="0"></use><use xlink:href="#MJMAIN-61" x="1181" y="0"></use><use xlink:href="#MJMAIN-6C" x="1681" y="0"></use><use xlink:href="#MJMAIN-48" x="2210" y="0"></use><use xlink:href="#MJMAIN-50" x="2960" y="0"></use><use xlink:href="#MJMAIN-49" x="3642" y="0"></use></g></g></svg><span class="MJX_Assistive_MathML MJX_Assistive_MathML_Block" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mfrac><mtext>Nominal HPI</mtext><mtext>CPI</mtext></mfrac><mo>∗</mo><mn>100</mn><mo>=</mo><mtext>Real HPI</mtext></math></span></span></div><script type="math/tex; mode=display" id="MathJax-Element-1">
+\frac{\text{Nominal HPI}}{\text{CPI}} * 100 = \text{Real HPI}
+</script></span></p>
+
 The graph below represents the change in the real housing price index over the last 24 years. As you can see, events like the 2008 housing market crash and the 2020 pandemic had substantial impacts on housing prices.
 
 <p align="center">
-  <img src=images/HPI_data.png width="650" height="450"/>
+  <img src="images/HPI_data.png" width="650" height="450"/>
 </p>
 
 ## **Forming a Prediction**
@@ -61,7 +67,7 @@ Inflation rate data was also gathered from the **US Bureau of Labor Statistics**
 [^3]: “BLS Data Viewer.” Bls.gov, 2018, data.bls.gov/dataViewer/view/timeseries/CUUR0000SA0.
 
 <p align="center">
-  <img src=images/Inflation_trends.png width="650" height="450"/>
+  <img src=https://github.com/garrettcbert/Real-Housing-Price-Prediction/blob/main/images/Inflation_trends.png width="650" height="450"/>
 </p>
 
 ### **Finding Similar Demand:**
@@ -77,7 +83,7 @@ The data for the interest rates was collected from the website of the **Federal 
 [^4]: “Effective Federal Funds Rate.” *Stlouisfed.org*, 1 Nov. 2024, fred.stlouisfed.org/series/FEDFUNDS.
 
 <p align="center">
-  <img src=images/interest_rate.png width="650" height="450"/>
+  <img src=https://github.com/garrettcbert/Real-Housing-Price-Prediction/blob/main/images/interest_rate.png width="650" height="450"/>
 </p>
 
 ## **Calculating the Sample Rate**
@@ -133,7 +139,7 @@ This means that for every month, our predicted change in real housing price inde
 The graph below models how this sample rate is seen through the months in between 2010 and 2011.
 
 <p align="center">
-  <img src=images/sample_rate.png width="650" height="450"/>
+  <img src=https://github.com/garrettcbert/Real-Housing-Price-Prediction/blob/main/images/sample_rate.png width="650" height="450"/>
 </p>
 
 ## **How do we apply this?**
@@ -153,7 +159,7 @@ $$\text{Predicted Average Real Housing Price in April 2025} = 135.65293 + -0.456
 The graph below applies the sample rate of change gathered from the months between 2010 and 2011 to the most recent gathered **Real HPI** number. We can see that in 8 months, using the sample rate, the **Real HPI** would be 132.
 
 <p align="center">
-  <img src=images/final_prediction.png width="650" height="450"/>
+  <img src=https://github.com/garrettcbert/Real-Housing-Price-Prediction/blob/main/images/final_prediction.png width="650" height="450"/>
 </p>
 
 ## **Conclusion**

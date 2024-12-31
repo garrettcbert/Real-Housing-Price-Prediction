@@ -115,7 +115,7 @@ After finding the standard deviation for both sets of values:
 Plugging everything in:
 
 <p align="center">
-  <img src="images/b_hat_equals.png" width="300" height="200"/>
+  <img src="images/b_hat_equals.png" width="1000" height="200"/>
 </p>
 
 This means that for every month, our predicted change in real housing price index per month is -0.4565.

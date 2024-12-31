@@ -1,9 +1,10 @@
-<center> # Real Housing Price Prediction
+<center> 
+# Real Housing Price Prediction
 
 By: Garrett Seibert
 
 12/28/24
-<\center>
+</center>
 
 ## **Introduction**
 

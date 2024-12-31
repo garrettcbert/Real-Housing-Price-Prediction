@@ -34,6 +34,17 @@ $$
 \frac{\text{Nominal HPI}}{\text{CPI}} * 100 = \text{Real HPI}
 $$
 
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mfrac>
+    <mtext>Nominal HPI</mtext>
+    <mtext>CPI</mtext>
+  </mfrac>
+  <mo>&#x2217;<!-- ∗ --></mo>
+  <mn>100</mn>
+  <mo>=</mo>
+  <mtext>Real HPI</mtext>
+</math>
+
 The graph below represents the change in the real housing price index over the last 24 years. As you can see, events like the 2008 housing market crash and the 2020 pandemic had substantial impacts on housing prices.
 
 <p align="center">

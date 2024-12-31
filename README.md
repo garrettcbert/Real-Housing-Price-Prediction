@@ -61,7 +61,7 @@ Inflation rate data was also gathered from the **US Bureau of Labor Statistics**
 [^3]: “BLS Data Viewer.” Bls.gov, 2018, data.bls.gov/dataViewer/view/timeseries/CUUR0000SA0.
 
 <p align="center">
-  <img src="https://github.com/garrettcbert/Real-Housing-Price-Prediction/blob/main/images/Inflation_trends.png" width="650" height="450"/>
+  <img src="images/Inflation_trends.png" width="650" height="450"/>
 </p>
 
 ### **Finding Similar Demand:**
@@ -77,7 +77,7 @@ The data for the interest rates was collected from the website of the **Federal 
 [^4]: “Effective Federal Funds Rate.” *Stlouisfed.org*, 1 Nov. 2024, fred.stlouisfed.org/series/FEDFUNDS.
 
 <p align="center">
-  <img src="https://github.com/garrettcbert/Real-Housing-Price-Prediction/blob/main/images/interest_rate.png" width="650" height="450"/>
+  <img src="images/interest_rate.png" width="650" height="450"/>
 </p>
 
 ## **Calculating the Sample Rate**
@@ -123,7 +123,7 @@ This means that for every month, our predicted change in real housing price inde
 The graph below models how this sample rate is seen through the months in between 2010 and 2011.
 
 <p align="center">
-  <img src="https://github.com/garrettcbert/Real-Housing-Price-Prediction/blob/main/images/sample_rate.png" width="650" height="450"/>
+  <img src="images/sample_rate.png" width="650" height="450"/>
 </p>
 
 ## **How do we apply this?**
@@ -137,7 +137,7 @@ We can use this predicted rate from our matching time period and apply it to the
 The graph below applies the sample rate of change gathered from the months between 2010 and 2011 to the most recent gathered **Real HPI** number. We can see that in 8 months, using the sample rate, the **Real HPI** would be 132.
 
 <p align="center">
-  <img src="https://github.com/garrettcbert/Real-Housing-Price-Prediction/blob/main/images/final_prediction.png" width="650" height="450"/>
+  <img src="images/final_prediction.png" width="650" height="450"/>
 </p>
 
 ## **Conclusion**

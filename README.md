@@ -131,7 +131,7 @@ The graph below models how this sample rate is seen through the months in betwee
 We can use this predicted rate from our matching time period and apply it to the most recent **Real HPI** values to find the predicted real housing price in April of 2025, though this can method can be used with any future month that meets our assumptions.
 
 <p align="center">
-  <img src="images/application.png" width="1000" height="150"/>
+  <img src="images/application.png" width="950" height="150"/>
 </p>
 
 The graph below applies the sample rate of change gathered from the months between 2010 and 2011 to the most recent gathered **Real HPI** number. We can see that in 8 months, using the sample rate, the **Real HPI** would be 132.

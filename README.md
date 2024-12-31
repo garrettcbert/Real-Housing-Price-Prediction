@@ -95,7 +95,7 @@ Because we need the x values to be linear and numeric, we will substitute the Ye
 The full calculation for understanding the relationship between Month-Numeric and Real Housing Price Index over the this 2 year duration goes as follows:
 
 <p align="center">
-  <img src="images/correlation.png" width="1700" height="218"/>
+  <img src="images/correlation.png" width="1700" height="300"/>
 </p>
 
 When calculated:

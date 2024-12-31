@@ -101,7 +101,7 @@ The full calculation for understanding the relationship between Month-Numeric an
 When calculated:
 
 <p align="center">
-  <img src="images/r_equals.png" width="288" height="94"/>
+  <img src="images/r_equals.png" width="258" height="64"/>
 </p>
 
 This means there is a strong negative correlation. In other words, during the years 2010 and 2011 real housing prices fell relatively consistently each month.
@@ -109,7 +109,7 @@ This means there is a strong negative correlation. In other words, during the ye
 After finding the standard deviation for both sets of values:
 
 <p align="center">
-  <img src="images/sd.png" width="300" height="200"/>
+  <img src="images/sd.png" width="204" height="102"/>
 </p>
 
 Plugging everything in:
